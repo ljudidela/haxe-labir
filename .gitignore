@@ -1,0 +1,5 @@
+bin/
+export/
+.haxelib/
+.idea/
+*.hxml.user
