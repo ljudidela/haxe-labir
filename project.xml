@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <meta title="Fatal Labyrinth Remake" package="com.game.fatal" version="1.0.0" company="AI" />
+    <app main="Main" file="bin/main" />
+    <window width="1280" height="720" background="#000000" fps="60" />
+    <source path="src" />
+    
+    <haxelib name="heaps" />
+    <haxelib name="hlsdl" />
+    <haxelib name="hlhashlink" />
+    
+    <assets path="res" rename="res" />
+</project>
